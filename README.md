@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @oknehcinv
+- 👀 I’m interested in crypto
+- 🌱 I’m currently learning go & python
+- 💞️ I’m looking to collaborate on CRYPTO PLZ
+- 📫 Twitter or X: [@oknehcinv](https://x.com/oknehcinv)
