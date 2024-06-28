@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oknehcinv
+- 👋 Hi, I’m James Miller
 - 👀 I’m interested in crypto
 - 🌱 I’m currently learning go & python
 - 💞️ I’m looking to collaborate on CRYPTO PLZ
